@@ -1,0 +1,22 @@
+{
+  "balghami": {
+    "name": "بلغمی",
+    "quality": "سرد و تر",
+    "emoji": "❄️"
+  },
+  "safravi": {
+    "name": "صفراوی",
+    "quality": "گرم و خشک",
+    "emoji": "🔥"
+  },
+  "damavi": {
+    "name": "دموی",
+    "quality": "گرم و تر",
+    "emoji": "💧"
+  },
+  "saudavi": {
+    "name": "سوداوی",
+    "quality": "سرد و خشک",
+    "emoji": "🌾"
+  }
+}
