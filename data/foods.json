@@ -1,0 +1,1418 @@
+[
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "گوسفند",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "مرغ محلی",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "شتر",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "بوقلمون",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "گاو",
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "شترمرغ",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "بلدرچین",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "جگر",
+    "variety": "سفید",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "جگر",
+    "variety": "سیاه",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "پاچه",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "زبان",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "مغز",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "غاز",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "آهو",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "قرقاول",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "اردک",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "کبک",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "خروس",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "سار",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "بز",
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "قلوه",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "سیرابی",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "گوساله",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "دل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "گوزن",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "گنجشک",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "گوشت و فرآورده‌های گوشتی",
+    "name": "گوشت",
+    "variety": "کبوتر",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "آبزیان",
+    "name": "ماهی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "آبزیان",
+    "name": "میگو",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "آبزیان",
+    "name": "تخم ماهی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "تخم مرغ",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "سفیده تخم مرغ",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "شیر",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "شیر",
+    "variety": "محلی",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "ماست",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "ماست",
+    "variety": "چکیده",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "پنیر",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "کشک",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "کره",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "دوغ",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "خامه",
+    "variety": "پرچرب",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "خامه",
+    "variety": "کم‌چرب",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "لبنیات و تخم‌مرغ",
+    "name": "سرشیر",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "برنج",
+    "variety": "اصفهان",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "برنج",
+    "variety": "شیراز",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "برنج",
+    "variety": "خوزستان",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "نان",
+    "variety": "گندم",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "نان",
+    "variety": "جو",
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "گندم",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "برنج",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "جو",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "جوی دوسر",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "ارزن",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "ذرت",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "نشاسته",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "غلات و فرآورده‌های غلات",
+    "name": "سمنو",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "حبوبات",
+    "name": "نخود",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "حبوبات",
+    "name": "ماش",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "حبوبات",
+    "name": "عدس",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "حبوبات",
+    "name": "لپه",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "حبوبات",
+    "name": "سویا",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "حبوبات",
+    "name": "باقلا",
+    "variety": "خشک",
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "حبوبات",
+    "name": "باقلا",
+    "variety": "تازه",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "حبوبات",
+    "name": "نخود",
+    "variety": "سبز",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "حبوبات",
+    "name": "لوبیا",
+    "variety": "سبز",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "پرتقال",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "نارنگی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "کیوی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "سیب",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "موز",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "لیمو شیرین",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "هندوانه",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "خربزه",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "طالبی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "آلو",
+    "variety": "زرد",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "آلو",
+    "variety": "سیاه",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "گوجه فرنگی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انگور",
+    "variety": "سبز",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انگور",
+    "variety": "سیاه",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انجیر",
+    "variety": "تازه",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انجیر",
+    "variety": "خشک",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انار",
+    "variety": "شیرین",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انار",
+    "variety": "ترش",
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "هلو",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "شلیل",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "توت سفید",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "شاه توت",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "گرمک",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "قیسی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "گلابی",
+    "variety": "شیرین",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "گیلاس",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "زردآلو",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "تمشک",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "ریواس",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "آلبالو",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "بالنگ",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "زالزالک",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "سنجد",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "کنار",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "گریپ فروت",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "لیمو عمانی",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "انبه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "گوجه سبز",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "هلو",
+    "variety": "انجیری",
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "زغال اخته",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "تمر هندی",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "آلوچه",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "شفتالو",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "لیمو ترش",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "به",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "غوره",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "نارنج",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "آناناس",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "دارابی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "میوه‌ها",
+    "name": "زیتون",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "خیار",
+    "variety": "چنبر",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "هویج",
+    "variety": "فرنگی",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "هویج",
+    "variety": "رسمی",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کاهو",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "تره",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "ترب و تربچه",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "فلفل دلمه‌ای",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "پیاز",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کرفس",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "بادمجان",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کلم",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کلم قمری",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کدو حلوایی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "سیر و موسیر",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "شلغم",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "زردک",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "چغندر",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "فلفل سبز",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "پونه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "جعفری",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "ریحان",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "اسفناج",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "بامیه",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "خرفه",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "قارچ خوراکی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کاسنی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کدو تنبل",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کلم بروکلی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کدو سبز",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "سبزی شبدر",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "یونجه",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "شاه تره",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "شاهی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "ترب",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "سوسنبر",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کنگر آبی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کنگر فرنگی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "کنگر وحشی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "گزنه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "مارچوبه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "مرزه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "والک",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "ترشک",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "شقاقل",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "سیب زمینی",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "سیب زمینی ترشی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "سبزیجات و گیاهان",
+    "name": "فلفل قرمز",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "کشمش",
+    "variety": "سبز",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "پسته",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "نارگیل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "گردو",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "فندق",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "کنجد",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "ارده",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "تخم کدو",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "چلغوز",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "تخم خربزه",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "تخم طالبی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "مویز",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "تخم ریحان",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "شاه دانه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "سیاه دانه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بادام هندی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بادام درختی تلخ",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بادام کوهی",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بادام شیرین",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بادام درختی شیرین",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بنه (پسته کوهی)",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "تخم آفتابگردان",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "چلغوزه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "شاه بلوط",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بلوط خوراکی",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "خشخاش",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "به دانه",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "تخم هندوانه",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "مغزها، دانه‌ها و خشکبار",
+    "name": "بادام زمینی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "فلفل سیاه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "سماق",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "زردچوبه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "زعفران",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "دارچین",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "هل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "آبلیمو",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "آویشن",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "گلپر",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "وانیل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "خردل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "زنجبیل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "زیره",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "فرنجمشک",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "ترخون",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "رازیانه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "اسپند",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "اسطوخدوس",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "بادرنجبویه",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "برگ بو",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "رزماری",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "زنیان",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "گشنیز",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "نمک",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "ادویه‌ها و چاشنی‌ها",
+    "name": "سرکه سیب",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "روغن‌ها و چربی‌ها",
+    "name": "روغن بادام",
+    "variety": "تلخ",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "روغن‌ها و چربی‌ها",
+    "name": "روغن بادام",
+    "variety": "شیرین",
+    "temperament": "معتدل"
+  },
+  {
+    "category": "روغن‌ها و چربی‌ها",
+    "name": "روغن کنجد",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "روغن‌ها و چربی‌ها",
+    "name": "روغن زیتون",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "خرما",
+    "variety": "خشک",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "خرما",
+    "variety": "رطب",
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "شیره انگور",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "شیره خرما",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "شکر",
+    "variety": "سرخ",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "شکر",
+    "variety": "سفید",
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "عسل",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "قره‌قروت",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "شیرینی‌ها و شیرین‌کننده‌ها",
+    "name": "کاکائو",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "چای سیاه",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "قهوه",
+    "variety": null,
+    "temperament": "سرد و خشک"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "چای سبز",
+    "variety": null,
+    "temperament": "گرم و خشک"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "گلاب",
+    "variety": null,
+    "temperament": "سرد و تر"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "خاکشیر",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "تخم شربتی",
+    "variety": null,
+    "temperament": "گرم و تر"
+  },
+  {
+    "category": "نوشیدنی‌ها و دم‌نوش‌ها",
+    "name": "آب",
+    "variety": null,
+    "temperament": "سرد و تر"
+  }
+]
